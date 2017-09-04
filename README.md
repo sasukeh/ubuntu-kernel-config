@@ -4,8 +4,11 @@ This is ubuntu kernel config backup.
 you can use those configration if you want to create ubuntu kernel upon x86_64 system.  
 
 ## Latest Linux Kernel is sitting on following links.
-
+- Main Site:  
 https://www.kernel.org/
+
+- Back up as torvalds managed repos on github:  
+https://github.com/torvalds/linux
 
 ## Additional resources
 ### Intel driver binary
